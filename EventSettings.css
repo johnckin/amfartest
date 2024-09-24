@@ -1,0 +1,10 @@
+/*1. Registration Success Page: This will hide the celebration graphic.
+*/
+.success-image.ng-star-inserted {
+display:none
+}
+
+h1.ng-star-inserted {
+  background-image: url("https://amfarthefoundationforaidsresearch.file.force.com/sfc/dist/version/download/?oid=00D5e000001Mmve&ids=068VH00000D05gDYAR&d=%2Fa%2FVH000000i1hx%2Fi5YGnlbOLhRzA6TTYtdU5I4P0d_i6tRQDscwAKJ6XWo&operationContext=DELIVERY&viewId=05HVH00000295Ab2AI&dpt=")
+
+}
