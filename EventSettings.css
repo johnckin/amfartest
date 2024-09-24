@@ -1,7 +1,7 @@
 /*1. Registration Success Page: This will hide the celebration graphic.
 */
 .success-image.ng-star-inserted {
-display:none
+display:none;
 }
 
 h1.ng-star-inserted {
